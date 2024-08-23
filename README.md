@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This is an Internet connectivity checking app in flutter, you can check your connection status whether you're connected to internet or Not.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
