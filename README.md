@@ -4,15 +4,5 @@ A new Flutter project.
 
 This is an Internet connectivity checking app in flutter, you can check your connection status whether you're connected to internet or Not.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+<img src="https://github.com/GurpreetAndroid/check_internet_connectivity_flutter/blob/master/screenshots/Screenshot_1.png" width="185" height="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GurpreetAndroid/check_internet_connectivity_flutter/blob/master/screenshots/Screenshot_1.png" width="185" height="400"> 
